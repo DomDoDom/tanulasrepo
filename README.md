@@ -1,0 +1,2 @@
+# tanulasrepo
+github tanulas folyamat
